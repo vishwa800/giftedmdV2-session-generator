@@ -71,12 +71,12 @@ ______________________________________
 ║❒ *Repo:* _https://github.com/Giftedmaurice/gifted-mdV2_
 ║❒ *WaGroup:* _https://chat.whatsapp.com/L0ctUUVLlsrFYwBHApKfew_
 ║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaJmfmTDJ6H7CmuBss0o_
-║❒ *Plugins:* _https://github.com/Giftedmaurice/gifted-bot-md-plugins_
+║❒ *Plugins:* _https://github.com/Giaurice/-bot-md-plugins_
 ╚══════════════════════╝ 
 _____________________________________
 
 _Don't Forget To Give Star To My Repo_`
- await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id,{text:CYBERVENO_MV_TEXT},{quoted:session})
+ await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id,{text:GIFTED_TECH_TEXT},{quoted:session})
  
 
         await delay(100);
